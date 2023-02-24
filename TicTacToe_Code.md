@@ -7,6 +7,7 @@ public class TicTacToe {
     static String[] board;
     static String turn;
 
+
     // CheckWinner method will
     // decide the combination
     // of three box given below.
