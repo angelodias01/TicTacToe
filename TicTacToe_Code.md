@@ -1,12 +1,13 @@
 import java.util.Arrays;
+
 import java.util.Scanner;
+
 import java.util.InputMismatchException;
 
 public class TicTacToe {
     
     static String[] board;
     static String turn;
-
 
     // CheckWinner method will
     // decide the combination
