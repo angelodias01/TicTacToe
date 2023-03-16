@@ -59,7 +59,7 @@ public class TicTacToe {
                 break;
             }
             else if (a == 8) {
-                return "Empate";
+                return "Draw";
             }
         }
 
